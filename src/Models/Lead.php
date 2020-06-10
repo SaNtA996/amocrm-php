@@ -32,6 +32,7 @@ class Lead extends AbstractModel
         'linked_company_id',
         'tags',
         'visitor_uid',
+        'contacts_id',
     ];
 
     /**
